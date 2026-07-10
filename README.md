@@ -1,4 +1,4 @@
-# laptop_price_prediction
+# laptop price prediction
 AI laptop price prediction 
 
 
