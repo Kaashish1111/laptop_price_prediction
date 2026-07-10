@@ -132,7 +132,7 @@ import numpy as np
 
 if st.button("🔮 Predict Price"):
 
-    input_df = pd.DataFrame(0, index=[0], columns=columns)
+    input_df = pd.DataFrame(0.0, index=[0], columns=columns)
 
     # Numerical features
     input_df.loc[0, "Ram"] = ram
